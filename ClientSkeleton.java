@@ -30,7 +30,7 @@ public class ClientSkeleton {
 		String[] clientArray = {this.firstName, this.lastName, this.age, this.idNumber, this.gender};
 		clientList.add(clientArray);
 		
-		System.out.println("Client processed, inser next");
+		System.out.println("Client processed");
 		
 		
 		
